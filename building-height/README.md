@@ -1,4 +1,4 @@
-# Mapbox does that?
+# Adding buildings and textures in Mapbox Studio 
 A collection of unique things that Mapbox can do
 
 ![Mapbox lasers world dominoes](../assets/images/mapbox-does-that.jpg)
